@@ -252,6 +252,10 @@ button {
   cursor: pointer;
 }
 
+/* Show menu */
+.show-menu{
+  right: 0;
+}
 
 /* Active link */
 
