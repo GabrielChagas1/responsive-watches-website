@@ -125,7 +125,11 @@ body.dark-theme{
 }
 
 /*========== Button Dark/Light ==========*/
-
+.change-theme{
+  color: var(--title-color);
+  font-size: 1.25rem;
+  cursor: pointer;
+}
 
 /*========== 
     Color changes in some parts of 
