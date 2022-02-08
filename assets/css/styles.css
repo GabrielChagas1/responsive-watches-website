@@ -955,8 +955,11 @@ body.dark-theme{
   font-size: var(--h3-font-size);
   font-weight: var(--font-medium);
 }
-/* Show cart */
 
+/* Show cart */
+.show-cart{
+  right: 0;
+}
 
 /*=============== BREAKPOINTS ===============*/
 /* For small devices */
