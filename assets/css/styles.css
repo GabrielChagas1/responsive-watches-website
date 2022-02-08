@@ -204,6 +204,8 @@ body.dark-theme{
   top: 0;
   left: 0;
   z-index: var(--z-fixed);
+  /* for animation dark mode */
+  transition: .4s;
 }
 
 .nav{
@@ -298,7 +300,9 @@ body.dark-theme{
 }
 
 /* Active link */
-
+.active-link{
+  color: var(--first-color);
+}
 
 /*=============== HOME ===============*/
 .home__container{
